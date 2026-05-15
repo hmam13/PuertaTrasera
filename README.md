@@ -18,7 +18,9 @@ resultados de vuelta. 🪟 Está optimizado para sistemas Windows.
 ⚠️ ADVERTENCIAS:
 -------------------------------------
 🛑 [!] Este script es exclusivamente para fines EDUCATIVOS.
+
 🚫 [!] No lo uses en computadoras ajenas sin permiso, ya que es ilegal.
+
 🛡️ [!] Úsalo solo en entornos controlados para aprender sobre ciberseguridad.
 
 🛠️ REQUISITOS:
